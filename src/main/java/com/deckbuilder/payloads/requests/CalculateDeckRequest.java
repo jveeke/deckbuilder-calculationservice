@@ -1,4 +1,5 @@
-package com.deckbuilder.payloads;
+package com.deckbuilder.payloads.requests;
+
 import java.util.List;
 
 import com.deckbuilder.models.JsonCard;
